@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled">
+      <change afterPath="$PROJECT_DIR$/Spring-01-StringContainer/src/main/resources/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-01-StringContainer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/src/main/java/services/FullTimeMentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-01-StringContainer/src/main/java/services/FullTimeMentor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/src/main/java/services/PartTimeMentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-01-StringContainer/src/main/java/services/PartTimeMentor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +52,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="services" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.CybertekApp (1)">
     <configuration name="CybertekApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CybertekApp" />
@@ -84,7 +92,7 @@
       <workItem from="1669574201273" duration="579000" />
       <workItem from="1669708816191" duration="1056000" />
       <workItem from="1669710085349" duration="4130000" />
-      <workItem from="1669747486518" duration="2391000" />
+      <workItem from="1669747486518" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
