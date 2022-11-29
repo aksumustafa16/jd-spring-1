@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled" />
+    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled">
+      <change afterPath="$PROJECT_DIR$/Spring-01-StringContainer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-StringContainer/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -37,8 +42,9 @@
     "jdk.selected.JAVA_MODULE": "19",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RunManager" selected="Application.CybertekApp (1)">
@@ -75,7 +81,8 @@
       <workItem from="1669388654543" duration="203000" />
       <workItem from="1669574201273" duration="579000" />
       <workItem from="1669708816191" duration="1056000" />
-      <workItem from="1669710085349" duration="1916000" />
+      <workItem from="1669710085349" duration="4130000" />
+      <workItem from="1669747486518" duration="1528000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
@@ -116,6 +123,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Tightly Coupled" />
     <option name="LAST_COMMIT_MESSAGE" value="Tightly Coupled" />
   </component>
