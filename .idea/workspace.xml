@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled">
-      <change afterPath="$PROJECT_DIR$/Spring-00-LoselyCoupled/src/CybertekApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-00-LoselyCoupled/src/service/MentorAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-00-LoselyCoupled/src/service/MentorAccount.java" afterDir="false" />
-    </list>
+    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +75,7 @@
       <workItem from="1669388654543" duration="203000" />
       <workItem from="1669574201273" duration="579000" />
       <workItem from="1669708816191" duration="1056000" />
-      <workItem from="1669710085349" duration="1260000" />
+      <workItem from="1669710085349" duration="1916000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
