@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled">
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/CybertekApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/interfaces/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/resources/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/interfaces/ExtraSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/OfficeHours.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/target/classes/CybertekApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/target/classes/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/target/classes/interfaces/Mentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/target/classes/services/FullTimeMentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-01-StringContainer/target/classes/services/PartTimeMentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-LoselyCoupled/CybertekApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-LoselyCoupled/implementation/Mentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-LoselyCoupled/service/FullTimeMentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-LoselyCoupled/service/MentorAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-LoselyCoupled/service/PartTimeMentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-TighhtlyCoupled/CybertekApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-TighhtlyCoupled/FullTimeMentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-TighhtlyCoupled/Mentor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-00-TighhtlyCoupled/PartTimeMentor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/CybertekApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/CybertekApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +111,7 @@
       <workItem from="1669708816191" duration="1056000" />
       <workItem from="1669710085349" duration="4130000" />
       <workItem from="1669747486518" duration="6016000" />
-      <workItem from="1669836131182" duration="1390000" />
+      <workItem from="1669836131182" duration="2799000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
