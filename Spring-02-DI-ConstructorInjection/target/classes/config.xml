@@ -7,7 +7,10 @@
     <!--<bean id="fullTimeMentor" class="services.FullTimeMentor"></bean>
         <bean id="partTimeMentor" class="services.PartTimeMentor"></bean>-->
 
-        <bean id="java" class="com.cybertek.services.Java"></bean>
+        <bean id="java" class="com.cybertek.services.Java">
+            <constructor-arg ref="officeHours"/>
+        </bean>
         <bean id="selenium" class="com.cybertek.services.Selenium"></bean>
+        <bean id="officeHours" class="com.cybertek.services.OfficeHours" ></bean>
 
 </beans>
