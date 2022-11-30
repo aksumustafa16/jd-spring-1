@@ -4,25 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled">
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/interfaces/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/interfaces/ExtraSessions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/services/OfficeHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/services/Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/services/interfaces/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/services/interfaces/ExtraSessions.java" afterDir="false" />
+    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="DI - Setter Injection">
+      <change afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/CybertekApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/CybertekApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/CybertekApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/CybertekApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/com/cybertek/interfaces/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/com/cybertek/interfaces/ExtraSessions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/com/cybertek/services/Java.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/com/cybertek/services/OfficeHours.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/com/cybertek/services/Selenium.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/services/interfaces/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/java/com/cybertek/services/interfaces/ExtraSessions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/src/main/resources/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +65,7 @@
       <recent name="services" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CybertekApp (3)">
+  <component name="RunManager" selected="Application.com.cybertek.CybertekApp">
     <configuration name="CybertekApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CybertekApp" />
       <module name="Spring-00-LoselyCoupled" />
@@ -107,8 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.cybertek.CybertekApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
+      <module name="Spring-02-DI-SetterInjection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.cybertek.CybertekApp" />
         <item itemvalue="Application.CybertekApp (3)" />
         <item itemvalue="Application.CybertekApp (2)" />
         <item itemvalue="Application.CybertekApp (1)" />
@@ -130,7 +131,7 @@
       <workItem from="1669708816191" duration="1056000" />
       <workItem from="1669710085349" duration="4130000" />
       <workItem from="1669747486518" duration="6016000" />
-      <workItem from="1669836131182" duration="7080000" />
+      <workItem from="1669836131182" duration="8344000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
@@ -153,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669329551795</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DI - Setter Injection">
+      <created>1669843754858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669843754858</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DI - Setter Injection">
+      <created>1669844065745</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669844065745</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +188,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Tightly Coupled" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tightly Coupled" />
+    <MESSAGE value="DI - Setter Injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="DI - Setter Injection" />
   </component>
 </project>
