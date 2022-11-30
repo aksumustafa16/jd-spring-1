@@ -1,7 +1,7 @@
 package com.cybertek.services;
 
-import com.cybertek.interfaces.Course;
-import com.cybertek.interfaces.ExtraSessions;
+import com.cybertek.services.interfaces.Course;
+import com.cybertek.services.interfaces.ExtraSessions;
 
 public class Java implements Course {
 

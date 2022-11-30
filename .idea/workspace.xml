@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="Tightly Coupled">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/resources/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/CybertekApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/CybertekApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/CybertekApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/CybertekApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/com/cybertek/services/Java.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/target/classes/com/cybertek/services/Java.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +111,7 @@
       <workItem from="1669708816191" duration="1056000" />
       <workItem from="1669710085349" duration="4130000" />
       <workItem from="1669747486518" duration="6016000" />
-      <workItem from="1669836131182" duration="4270000" />
+      <workItem from="1669836131182" duration="5947000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
