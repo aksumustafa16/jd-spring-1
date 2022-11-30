@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-01-StringContainer" />
+        <module name="Spring-02-DI-SetterInjection" />
         <module name="Spring-02-DI-ConstructorInjection" />
       </profile>
     </annotationProcessing>
