@@ -1,6 +1,7 @@
 package com.cybertek.services;
 
 import com.cybertek.interfaces.Course;
+import com.cybertek.interfaces.ExtraSessions;
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
@@ -9,7 +10,7 @@ import lombok.ToString;
 @Data
 public class Java implements Course {
 
-    private OfficeHours officeHours;
+    private ExtraSessions extraSessions;
 
     /*
     public OfficeHours getOfficeHours() {
@@ -24,6 +25,6 @@ public class Java implements Course {
 
 
     public void getTeachingHours() {
-        System.out.println("Weekly Teaching Hours: " + (20 + officeHours.getHours()));
+        System.out.println("Weekly Teaching Hours: " + (20 + extraSessions.getHours()));
     }
 }
