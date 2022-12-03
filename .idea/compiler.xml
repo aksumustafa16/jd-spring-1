@@ -11,6 +11,7 @@
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
         <module name="Spring-01-StringContainer" />
         <module name="Spring-02-DI-ConstructorInjection" />
+        <module name="Spring-04-BeanLifeCycle" />
       </profile>
     </annotationProcessing>
   </component>

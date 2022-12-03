@@ -8,5 +8,9 @@ public class Selenium implements Course {
         System.out.println("Weekly Teaching Hours: 15");
     }
 
+    public void myDestroyMethod(){
+        System.out.println("Executing destroy method");
+    }
+
 
 }

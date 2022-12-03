@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="DI - Setter Injection">
+      <change afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/src/main/java/com/cybertek/CybertekApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/CybertekApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/CybertekApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cybertek/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cybertek/services/Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/src/main/java/com/cybertek/services/Selenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/src/main/java/com/cybertek/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/src/main/resources/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -37,6 +41,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -47,9 +52,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Surface/Documents/jd-spring/jd-spring/Spring-03-BeanScope-Singleton-Prototype/src/main/resources",
+    "last_opened_file_path": "C:/Users/Surface/Documents/jd-spring/jd-spring/Spring-04-BeanLifeCycle/src/main/resources",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -58,24 +63,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-04-BeanLifeCycle\src\main\resources" />
+      <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring" />
       <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-03-BeanScope-Singleton-Prototype\src\main\resources" />
       <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-03-BeanScope-Singleton-Prototype\src\main\java" />
       <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-02-DI-SetterInjection\src\main\resources" />
-      <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-02-DI-SetterInjection\src\main\java\com\cybertek\services" />
-      <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-02-DI-SetterInjection\src\main\java\com\cybertek\interfaces" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="services" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CybertekApp (4)">
-    <configuration name="CybertekApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CybertekApp" />
-      <module name="Spring-00-LoselyCoupled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CybertekApp">
     <configuration name="CybertekApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CybertekApp" />
       <module name="Spring-01-StringContainer" />
@@ -97,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CybertekApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
+      <module name="Spring-04-BeanLifeCycle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.cybertek.CybertekApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
       <module name="Spring-02-DI-SetterInjection" />
@@ -112,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CybertekApp" />
         <item itemvalue="Application.CybertekApp (4)" />
         <item itemvalue="Application.com.cybertek.CybertekApp" />
         <item itemvalue="Application.CybertekApp (3)" />
         <item itemvalue="Application.CybertekApp (2)" />
-        <item itemvalue="Application.CybertekApp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +146,7 @@
       <workItem from="1669710085349" duration="4130000" />
       <workItem from="1669747486518" duration="6016000" />
       <workItem from="1669836131182" duration="9830000" />
-      <workItem from="1670097465791" duration="3219000" />
+      <workItem from="1670097465791" duration="5640000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
