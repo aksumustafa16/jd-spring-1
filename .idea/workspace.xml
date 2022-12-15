@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="DI - Setter Injection">
-      <change beforePath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cybertek/services/OfficeHours.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cybertek/services/OfficeHours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cybertek/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/target/classes/com/cybertek/services/Java.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/target/classes/com/cybertek/services/Java.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +163,7 @@
       <workItem from="1670097465791" duration="6059000" />
       <workItem from="1670666321338" duration="6438000" />
       <workItem from="1671015441808" duration="1482000" />
-      <workItem from="1671092254255" duration="1297000" />
+      <workItem from="1671092254255" duration="2079000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
