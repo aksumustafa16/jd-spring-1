@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="DI - Setter Injection">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="265d9721-0c74-442b-ba72-281733ed9965" name="Changes" comment="JavaAnnotations-Autowired">
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/java/com/cybertek/CybertekApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/java/com/cybertek/interfaces/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/java/com/cybertek/interfaces/ExtraSeesions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/java/com/cybertek/services/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/java/com/cybertek/services/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/resources/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cybertek/services/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java/com/cybertek/services/Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/target/classes/com/cybertek/services/Java.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/target/classes/com/cybertek/services/Java.class" afterDir="false" />
     </list>
@@ -54,7 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Surface/Documents/jd-spring/jd-spring/Spring-05-JavaAnnotations-Autowired/src/main",
+    "last_opened_file_path": "C:/Users/Surface/Documents/jd-spring/jd-spring/Spring-05-JavaAnnotation-Qualifier",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -65,17 +72,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-05-JavaAnnotation-Qualifier" />
       <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-05-JavaAnnotations-Autowired\src\main" />
       <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-05-JavaAnnotations-Autowired\src\main\java" />
       <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-05-JavaAnnotations-Autowired\src\main\resources" />
       <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-05-JavaAnnotations-Autowired" />
-      <recent name="C:\Users\Surface\Documents\jd-spring\jd-spring\Spring-05-JavaAnnotations-Component\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="services" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CybertekApp (2)">
+  <component name="RunManager" selected="Application.CybertekApp (3)">
     <configuration name="CybertekApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
       <module name="Spring-05-JavaAnnotations-Component" />
@@ -92,6 +99,19 @@
     <configuration name="CybertekApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
       <module name="Spring-05-JavaAnnotations-Autowired" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CybertekApp (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
+      <module name="Spring-05-JavaAnnotation-Qualifier" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.*" />
@@ -122,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.cybertek.CybertekApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
-      <module name="Spring-02-DI-SetterInjection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CybertekApp (3)" />
         <item itemvalue="Application.CybertekApp (2)" />
         <item itemvalue="Application.CybertekApp (1)" />
         <item itemvalue="Application.CybertekApp" />
         <item itemvalue="Application.CybertekApp (4)" />
-        <item itemvalue="Application.com.cybertek.CybertekApp" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +170,7 @@
       <workItem from="1670097465791" duration="6059000" />
       <workItem from="1670666321338" duration="6438000" />
       <workItem from="1671015441808" duration="1482000" />
-      <workItem from="1671092254255" duration="2079000" />
+      <workItem from="1671092254255" duration="2622000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
@@ -214,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669846023038</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="JavaAnnotations-Autowired">
+      <created>1671094468285</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671094468285</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +249,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Tightly Coupled" />
     <MESSAGE value="DI - Setter Injection" />
-    <option name="LAST_COMMIT_MESSAGE" value="DI - Setter Injection" />
+    <MESSAGE value="JavaAnnotations-Autowired" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaAnnotations-Autowired" />
   </component>
 </project>
