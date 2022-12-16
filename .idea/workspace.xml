@@ -71,7 +71,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "02a2d069ae1ccac405ede9f562b4257d"
+    "spring.configuration.checksum": "6325e88df9f894ac2c91bc88f6c0647b"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -119,7 +119,7 @@
     </configuration>
     <configuration name="CybertekApp (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
-      <module name="Spring-05-JavaAnnotation-Qualifier" />
+      <module name="Spring-05-JavaAnnotations-Qualifier" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.*" />
@@ -132,7 +132,7 @@
     </configuration>
     <configuration name="CybertekApp (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
-      <module name="Spring-05-Value" />
+      <module name="Spring-05-JavaAnnotations-Value" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.*" />
@@ -186,6 +186,7 @@
       <workItem from="1671015441808" duration="1482000" />
       <workItem from="1671092254255" duration="6643000" />
       <workItem from="1671100168855" duration="2098000" />
+      <workItem from="1671183309675" duration="1022000" />
     </task>
     <task id="LOCAL-00001" summary="Tightly Coupled">
       <created>1669329128050</created>
