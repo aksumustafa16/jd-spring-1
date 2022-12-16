@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/Spring-05-JavaAnnotation-Qualifier/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-05-Value/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-05-Value/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -13,6 +13,7 @@
         <module name="Spring-01-StringContainer" />
         <module name="Spring-05-JavaAnnotation-Qualifier" />
         <module name="Spring-02-DI-SetterInjection" />
+        <module name="Spring-05-Value" />
         <module name="Spring-02-DI-ConstructorInjection" />
         <module name="Spring-04-BeanLifeCycle" />
       </profile>
